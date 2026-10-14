@@ -1,0 +1,611 @@
+﻿Fecha_NE_raw;NE;Imputado;Fecha_NE;pozo;Ciudad;Fecha_indice;Temporada_indice;Precipitacion_mm;NDVI;EVI;NDWI;Ciudad_indice;Diferencia_dias;Diferencia_dias_firmada;Cruce_recomendado;Temporada
+24/08/2009 0:00;41.36;0;24/08/2009;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;161;-161;True;Verano (seco) - Febrero
+24/08/2009 0:00;41.36;0;24/08/2009;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;161;-161;True;Verano (seco) - Febrero
+13/10/2009 0:00;43.52;0;13/10/2009;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;111;-111;True;Verano (seco) - Febrero
+29/12/2009 0:00;43.24;0;29/12/2009;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;34;-34;True;Verano (seco) - Febrero
+5/02/2010 0:00;43.56;0;5/02/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;4;4;True;Verano (seco) - Febrero
+26/02/2010 0:00;44.35;0;26/02/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;25;25;True;Verano (seco) - Febrero
+19/04/2010 0:00;43.86;0;19/04/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;43.57;0;7/05/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;95;95;True;Verano (seco) - Febrero
+2/06/2010 0:00;43.63;0;2/06/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;121;121;True;Verano (seco) - Febrero
+1/02/2011 0:00;44.21;0;1/02/2011;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;44.49;0;16/05/2011;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;43.95;0;3/01/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;44.05;0;26/01/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+24/02/2012 0:00;44.0;0;24/02/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;54;54;True;Verano (seco) - Febrero
+18/04/2012 0:00;43.88;0;18/04/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;108;108;True;Verano (seco) - Febrero
+30/05/2012 0:00;43.95;0;30/05/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;150;150;True;Verano (seco) - Febrero
+4/01/2013 0:00;45.76;0;4/01/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;46.02;0;4/04/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;46.12;0;7/05/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;46.775;0;9/12/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;46.98;0;8/01/2014;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;47.0;0;13/02/2014;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;47.14;0;2/04/2014;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;47.34;0;5/05/2014;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;47.32;0;3/06/2014;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;47.66;0;5/01/2015;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+13/04/2015 0:00;48.05;0;13/04/2015;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;71;71;True;Verano (seco) - Febrero
+2/06/2015 0:00;47.86;0;2/06/2015;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;48.63;0;18/01/2016;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;48.49;0;29/02/2016;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;48.89;0;11/04/2016;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+8/02/2017 0:00;50.28;0;8/02/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+28/02/2017 0:00;50.45;0;28/02/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;27;27;True;Verano (seco) - Febrero
+10/05/2017 0:00;50.78;0;10/05/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;50.73;0;1/06/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;120;120;True;Verano (seco) - Febrero
+23/01/2018 0:00;51.17;0;23/01/2018;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+3/04/2019 0:00;51.89;0;3/04/2019;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;61;61;True;Verano (seco) - Febrero
+31/03/2020 0:00;53.95;0;31/03/2020;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;59;59;True;Verano (seco) - Febrero
+1/05/2020 0:00;52.75;0;1/05/2020;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;90;90;True;Verano (seco) - Febrero
+13/05/2020 0:00;52.68;0;13/05/2020;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;102;102;True;Verano (seco) - Febrero
+20/05/2020 0:00;52.75;0;20/05/2020;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;109;109;True;Verano (seco) - Febrero
+8/02/2022 0:00;54.75;0;8/02/2022;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;7;7;True;Verano (seco) - Febrero
+2/01/2023 0:00;56.87;1;2/01/2023;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;30;-30;True;Verano (seco) - Febrero
+21/12/2023 0:00;5.847.152.868.964.520;0;21/12/2023;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;42;-42;True;Verano (seco) - Febrero
+5/03/2024 0:00;5.865.187.202.972.590;0;5/03/2024;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 A;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;33;33;True;Verano (seco) - Febrero
+18/02/2010 0:00;6.94;1;18/02/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;17;17;True;Verano (seco) - Febrero
+28/12/2010 0:00;7.49;1;28/12/2010;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;35;-35;True;Verano (seco) - Febrero
+1/02/2011 0:00;7.6;0;1/02/2011;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;7.65;0;16/05/2011;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;6.75;0;3/01/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;6.94;0;26/01/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+24/02/2012 0:00;7.34;0;24/02/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;54;54;True;Verano (seco) - Febrero
+30/05/2012 0:00;6.85;0;30/05/2012;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;150;150;True;Verano (seco) - Febrero
+4/04/2013 0:00;7.17;0;4/04/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;7.26;0;7/05/2013;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+22/05/2016 0:00;6.7;1;22/05/2016;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;111;111;True;Verano (seco) - Febrero
+10/05/2017 0:00;5.83;0;10/05/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;6.9;0;1/06/2017;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;120;120;True;Verano (seco) - Febrero
+23/01/2018 0:00;6.91;0;23/01/2018;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+3/04/2019 0:00;6.95;0;3/04/2019;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;61;61;True;Verano (seco) - Febrero
+1/05/2020 0:00;7.38;0;1/05/2020;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;90;90;True;Verano (seco) - Febrero
+8/02/2022 0:00;7.43;0;8/02/2022;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;7;7;True;Verano (seco) - Febrero
+1/06/2023 0:00;8.98;1;1/06/2023;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;120;120;True;Verano (seco) - Febrero
+26/12/2023 0:00;7.75;1;26/12/2023;Arroyo salida a Betulia (Corozal) - # 44-IV-D-PZ-01 B;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;37;-37;True;Verano (seco) - Febrero
+5/02/2010 0:00;36.1;0;5/02/2010;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;4;4;True;Verano (seco) - Febrero
+26/02/2010 0:00;36.3;0;26/02/2010;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;25;25;True;Verano (seco) - Febrero
+19/04/2010 0:00;36.55;0;19/04/2010;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;36.36;0;7/05/2010;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;95;95;True;Verano (seco) - Febrero
+2/06/2010 0:00;36.45;0;2/06/2010;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;121;121;True;Verano (seco) - Febrero
+1/02/2011 0:00;34.75;0;1/02/2011;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;34.79;0;16/05/2011;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;34.3;0;3/01/2012;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;34.4;0;26/01/2012;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+24/02/2012 0:00;34.55;0;24/02/2012;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;54;54;True;Verano (seco) - Febrero
+12/04/2012 0:00;34.9;0;12/04/2012;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;102;102;True;Verano (seco) - Febrero
+4/01/2013 0:00;36.125;0;4/01/2013;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;36.5;0;4/04/2013;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;36.79;0;7/05/2013;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;37.15;0;9/12/2013;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;37.2;0;8/01/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;37.24;0;13/02/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+13/02/2014 0:00;37.24;0;13/02/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;37.45;0;2/04/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+2/04/2014 0:00;37.45;0;2/04/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;37.54;0;5/05/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;37.91;0;3/06/2014;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;37.65;0;5/01/2015;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+13/04/2015 0:00;38.28;0;13/04/2015;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;71;71;True;Verano (seco) - Febrero
+2/06/2015 0:00;38.0;0;2/06/2015;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;38.81;0;18/01/2016;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;38.89;0;29/02/2016;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;38.97;0;11/04/2016;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+8/02/2017 0:00;39.98;0;8/02/2017;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+10/05/2017 0:00;39.82;0;10/05/2017;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;39.9;0;1/06/2017;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;120;120;True;Verano (seco) - Febrero
+23/01/2018 0:00;39.41;0;23/01/2018;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+3/04/2019 0:00;40.09;0;3/04/2019;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;61;61;True;Verano (seco) - Febrero
+31/03/2020 0:00;41.01;0;31/03/2020;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;59;59;True;Verano (seco) - Febrero
+13/05/2020 0:00;41.0;0;13/05/2020;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;102;102;True;Verano (seco) - Febrero
+15/01/2021 0:00;41.87;1;15/01/2021;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;17;-17;True;Verano (seco) - Febrero
+9/05/2021 0:00;41.45;0;9/05/2021;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;97;97;True;Verano (seco) - Febrero
+11/04/2022 0:00;42.25;1;11/04/2022;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;69;69;True;Verano (seco) - Febrero
+3/02/2023 0:00;42.12;0;3/02/2023;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;2;2;True;Verano (seco) - Febrero
+21/02/2024 0:00;42.78;1;21/02/2024;Basurero Viejo, Pileta (Corozal) - # 52-II-B-PZ-01 A;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;20;20;True;Verano (seco) - Febrero
+17/07/2009 0:00;5.11;0;17/07/2009;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;168;-168;True;Verano (seco) - Febrero
+24/08/2009 0:00;5.0;0;24/08/2009;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;130;-130;True;Verano (seco) - Febrero
+12/01/2010 0:00;4.59;0;12/01/2010;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;11;11;True;Verano (seco) - Febrero
+12/01/2010 0:00;4.59;0;12/01/2010;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;11;11;True;Verano (seco) - Febrero
+1/03/2010 0:00;6.96;0;1/03/2010;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;59;59;True;Verano (seco) - Febrero
+19/04/2010 0:00;5.54;0;19/04/2010;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;108;108;True;Verano (seco) - Febrero
+3/01/2012 0:00;4.7;0;3/01/2012;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;2;2;True;Verano (seco) - Febrero
+28/02/2012 0:00;5.2;0;28/02/2012;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;58;58;True;Verano (seco) - Febrero
+12/04/2012 0:00;5.35;0;12/04/2012;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;102;102;True;Verano (seco) - Febrero
+4/01/2013 0:00;4.94;0;4/01/2013;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;28;-28;True;Verano (seco) - Febrero
+7/05/2013 0:00;5.47;0;7/05/2013;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;95;95;True;Verano (seco) - Febrero
+13/06/2013 0:00;5.36;0;13/06/2013;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;132;132;True;Verano (seco) - Febrero
+8/01/2014 0:00;5.04;0;8/01/2014;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;5.26;0;13/02/2014;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;12;12;True;Verano (seco) - Febrero
+15/04/2014 0:00;5.52;0;15/04/2014;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;73;73;True;Verano (seco) - Febrero
+5/05/2014 0:00;5.48;0;5/05/2014;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;93;93;True;Verano (seco) - Febrero
+18/01/2016 0:00;5.61;0;18/01/2016;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;5.67;0;29/02/2016;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;6.0;0;11/04/2016;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;70;70;True;Verano (seco) - Febrero
+15/02/2017 0:00;6.96;0;15/02/2017;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;14;14;True;Verano (seco) - Febrero
+2/06/2017 0:00;5.33;0;2/06/2017;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;121;121;True;Verano (seco) - Febrero
+3/04/2019 0:00;5.85;0;3/04/2019;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;61;61;True;Verano (seco) - Febrero
+3/05/2019 0:00;5.37;0;3/05/2019;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;91;91;True;Verano (seco) - Febrero
+1/05/2020 0:00;5.6;0;1/05/2020;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2020;Verano (seco) - Febrero;1.0;0.3561;0.243;-0.1674;Morroa;90;90;True;Verano (seco) - Febrero
+13/05/2020 0:00;4.57;0;13/05/2020;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2020;Verano (seco) - Febrero;1.0;0.3561;0.243;-0.1674;Morroa;102;102;True;Verano (seco) - Febrero
+22/04/2021 0:00;4.44;1;22/04/2021;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2021;Verano (seco) - Febrero;5.0;0.4945;0.3331;-0.0907;Morroa;80;80;True;Verano (seco) - Febrero
+8/02/2022 0:00;4.82;1;8/02/2022;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2022;Verano (seco) - Febrero;14.0;0.491;0.2969;-0.112;Morroa;7;7;True;Verano (seco) - Febrero
+8/12/2023 0:00;5.33;1;8/12/2023;Bremen - # 44-IV-C-PZ-01 B;Morroa;1/02/2024;Verano (seco) - Febrero;11.0;0.5259;0.3379;-0.0428;Morroa;55;-55;True;Verano (seco) - Febrero
+5/02/2010 0:00;34.17;0;5/02/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;4;4;True;Verano (seco) - Febrero
+15/02/2010 0:00;33.81;0;15/02/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;14;14;True;Verano (seco) - Febrero
+26/02/2010 0:00;34.2;0;26/02/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;25;25;True;Verano (seco) - Febrero
+5/03/2010 0:00;34.8;0;5/03/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;32;32;True;Verano (seco) - Febrero
+19/04/2010 0:00;33.79;0;19/04/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;34.29;0;7/05/2010;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;95;95;True;Verano (seco) - Febrero
+1/02/2011 0:00;33.53;0;1/02/2011;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;34.29;0;16/05/2011;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;34.54;0;3/01/2012;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;34.54;0;26/01/2012;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+24/02/2012 0:00;34.6;0;24/02/2012;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;54;54;True;Verano (seco) - Febrero
+30/05/2012 0:00;34.7;0;30/05/2012;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;150;150;True;Verano (seco) - Febrero
+4/01/2013 0:00;34.74;0;4/01/2013;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;34.97;0;4/04/2013;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;35.14;0;7/05/2013;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;35.57;0;9/12/2013;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;35.72;0;8/01/2014;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;35.9;0;13/02/2014;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;35.92;0;2/04/2014;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;36.23;0;5/05/2014;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;36.27;0;3/06/2014;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;36.97;0;5/01/2015;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+13/04/2015 0:00;37.14;0;13/04/2015;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;71;71;True;Verano (seco) - Febrero
+2/06/2015 0:00;37.22;0;2/06/2015;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;37.97;0;18/01/2016;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;38.04;0;29/02/2016;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;38.13;0;11/04/2016;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+8/02/2017 0:00;38.98;0;8/02/2017;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+10/05/2017 0:00;39.13;0;10/05/2017;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;39.21;0;1/06/2017;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;120;120;True;Verano (seco) - Febrero
+11/03/2018 0:00;40.12;1;11/03/2018;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;38;38;True;Verano (seco) - Febrero
+23/05/2019 0:00;42.68;0;23/05/2019;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;111;111;True;Verano (seco) - Febrero
+7/04/2020 0:00;42.81;0;7/04/2020;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;66;66;True;Verano (seco) - Febrero
+17/01/2021 0:00;43.21;0;17/01/2021;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;15;-15;True;Verano (seco) - Febrero
+8/02/2022 0:00;43.57;0;8/02/2022;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;7;7;True;Verano (seco) - Febrero
+22/05/2023 0:00;43.67;1;22/05/2023;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;110;110;True;Verano (seco) - Febrero
+2/01/2024 0:00;44.97;1;2/01/2024;Cantagallo - # 52-II-A-PZ-01 Corozal;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;30;-30;True;Verano (seco) - Febrero
+5/02/2010 0:00;61.48;0;5/02/2010;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;4;4;True;Verano (seco) - Febrero
+26/02/2010 0:00;62.56;0;26/02/2010;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;25;25;True;Verano (seco) - Febrero
+19/04/2010 0:00;62.5;0;19/04/2010;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;62.34;0;7/05/2010;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;95;95;True;Verano (seco) - Febrero
+2/06/2010 0:00;62.6;0;2/06/2010;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;121;121;True;Verano (seco) - Febrero
+1/02/2011 0:00;62.92;0;1/02/2011;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;62.9;0;16/05/2011;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+16/05/2011 0:00;62.9;0;16/05/2011;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;64.0;0;3/01/2012;Corozal - # 44-IV-D-PO-14;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;63.95;0;26/01/2012;Corozal - # 44-IV-D-PO-14;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+28/02/2012 0:00;64.1;0;28/02/2012;Corozal - # 44-IV-D-PO-14;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;58;58;True;Verano (seco) - Febrero
+23/04/2012 0:00;64.11;0;23/04/2012;Corozal - # 44-IV-D-PO-14;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;113;113;True;Verano (seco) - Febrero
+30/05/2012 0:00;64.16;0;30/05/2012;Corozal - # 44-IV-D-PO-14;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;150;150;True;Verano (seco) - Febrero
+4/01/2013 0:00;65.0;0;4/01/2013;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;65.23;0;4/04/2013;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;65.4;0;7/05/2013;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;66.35;0;9/12/2013;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;66.52;0;8/01/2014;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;66.75;0;13/02/2014;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;66.87;0;2/04/2014;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;67.13;0;5/05/2014;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;67.32;0;3/06/2014;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;67.99;0;5/01/2015;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+2/06/2015 0:00;68.64;0;2/06/2015;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;70.59;0;18/01/2016;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;69.82;0;29/02/2016;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;69.93;0;11/04/2016;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+8/02/2017 0:00;71.53;0;8/02/2017;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+27/04/2017 0:00;72.5;0;27/04/2017;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;85;85;True;Verano (seco) - Febrero
+10/05/2017 0:00;72.21;0;10/05/2017;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;72.32;0;1/06/2017;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;120;120;True;Verano (seco) - Febrero
+23/01/2018 0:00;73.82;0;23/01/2018;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+12/06/2018 0:00;74.75;0;12/06/2018;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;131;131;True;Verano (seco) - Febrero
+12/06/2018 0:00;74.75;0;12/06/2018;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;131;131;True;Verano (seco) - Febrero
+4/04/2019 0:00;76.04;0;4/04/2019;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;62;62;True;Verano (seco) - Febrero
+7/03/2020 0:00;77.25;1;7/03/2020;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;35;35;True;Verano (seco) - Febrero
+8/02/2021 0:00;79.15;1;8/02/2021;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;7;7;True;Verano (seco) - Febrero
+20/04/2022 0:00;80.47;1;20/04/2022;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;78;78;True;Verano (seco) - Febrero
+14/05/2023 0:00;82.31;0;14/05/2023;Corozal - # 44-IV-D-PO-14;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;102;102;True;Verano (seco) - Febrero
+12/01/2010 0:00;11.7;0;12/01/2010;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;20;-20;True;Verano (seco) - Febrero
+1/03/2010 0:00;13.0;0;1/03/2010;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;28;28;True;Verano (seco) - Febrero
+14/01/2012 0:00;10.77;1;14/01/2012;Corozal - # 44-IV-D-PZ-20;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;13;13;True;Verano (seco) - Febrero
+26/04/2012 0:00;11.0;0;26/04/2012;Corozal - # 44-IV-D-PZ-20;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;116;116;True;Verano (seco) - Febrero
+4/01/2013 0:00;11.16;0;4/01/2013;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+7/05/2013 0:00;11.61;0;7/05/2013;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;11.37;0;9/12/2013;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+13/02/2014 0:00;11.25;0;13/02/2014;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+5/05/2014 0:00;11.32;0;5/05/2014;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+10/05/2015 0:00;11.44;1;10/05/2015;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;98;98;True;Verano (seco) - Febrero
+21/12/2015 0:00;13.02;0;21/12/2015;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;42;-42;True;Verano (seco) - Febrero
+11/04/2016 0:00;13.39;0;11/04/2016;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+29/12/2016 0:00;14.96;0;29/12/2016;Corozal - # 44-IV-D-PZ-20;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;34;-34;True;Verano (seco) - Febrero
+12/01/2010 0:00;66.24;0;12/01/2010;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;20;-20;True;Verano (seco) - Febrero
+26/02/2010 0:00;66.9;0;26/02/2010;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;25;25;True;Verano (seco) - Febrero
+19/04/2010 0:00;66.98;0;19/04/2010;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;66.81;0;7/05/2010;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;95;95;True;Verano (seco) - Febrero
+2/06/2010 0:00;66.87;0;2/06/2010;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;121;121;True;Verano (seco) - Febrero
+1/02/2011 0:00;67.24;0;1/02/2011;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;67.74;0;16/05/2011;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;104;104;True;Verano (seco) - Febrero
+3/01/2012 0:00;67.4;0;3/01/2012;Corozal - # 44-IV-D-PZ-22;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+26/01/2012 0:00;67.35;0;26/01/2012;Corozal - # 44-IV-D-PZ-22;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;25;25;True;Verano (seco) - Febrero
+28/02/2012 0:00;67.74;0;28/02/2012;Corozal - # 44-IV-D-PZ-22;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;58;58;True;Verano (seco) - Febrero
+24/04/2012 0:00;67.55;0;24/04/2012;Corozal - # 44-IV-D-PZ-22;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;114;114;True;Verano (seco) - Febrero
+30/05/2012 0:00;68.0;0;30/05/2012;Corozal - # 44-IV-D-PZ-22;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;150;150;True;Verano (seco) - Febrero
+4/01/2013 0:00;69.1;0;4/01/2013;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;69.45;0;4/04/2013;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;69.22;0;7/05/2013;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;70.57;0;9/12/2013;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;70.79;0;8/01/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+20/01/2014 0:00;70.79;0;20/01/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;-12;True;Verano (seco) - Febrero
+13/02/2014 0:00;71.01;0;13/02/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+13/02/2014 0:00;71.01;0;13/02/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;71.19;0;2/04/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+2/04/2014 0:00;71.19;0;2/04/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;71.39;0;5/05/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;71.52;0;3/06/2014;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;72.55;0;5/01/2015;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+2/06/2015 0:00;73.5;0;2/06/2015;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+29/02/2016 0:00;75.14;0;29/02/2016;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+13/01/2017 0:00;75.91;1;13/01/2017;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;19;-19;True;Verano (seco) - Febrero
+15/02/2017 0:00;76.34;0;15/02/2017;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;14;14;True;Verano (seco) - Febrero
+10/05/2017 0:00;75.77;0;10/05/2017;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;98;98;True;Verano (seco) - Febrero
+9/04/2018 0:00;76.87;0;9/04/2018;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;67;67;True;Verano (seco) - Febrero
+4/04/2019 0:00;79.36;0;4/04/2019;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;62;62;True;Verano (seco) - Febrero
+10/02/2020 0:00;79.56;0;10/02/2020;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;9;9;True;Verano (seco) - Febrero
+10/01/2021 0:00;81.56;0;10/01/2021;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;22;-22;True;Verano (seco) - Febrero
+14/02/2022 0:00;82.75;0;14/02/2022;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;13;13;True;Verano (seco) - Febrero
+3/01/2023 0:00;84.7;1;3/01/2023;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;29;-29;True;Verano (seco) - Febrero
+5/03/2024 0:00;86.11;0;5/03/2024;Corozal - # 44-IV-D-PZ-22;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;33;33;True;Verano (seco) - Febrero
+17/03/2010 0:00;1.027.436;0;17/03/2010;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/01/2010;Verano (seco) - Febrero;0.0;0.603906313;0.347119327;0.114290958;Ovejas;75;75;True;Verano (seco) - Febrero
+19/12/2010 0:00;10.23;0;19/12/2010;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2011;Verano (seco) - Febrero;17.0;0.6452;0.4249;0.1297;Ovejas;44;-44;True;Verano (seco) - Febrero
+5/03/2011 0:00;10.232;1;5/03/2011;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2011;Verano (seco) - Febrero;17.0;0.6452;0.4249;0.1297;Ovejas;32;32;True;Verano (seco) - Febrero
+17/03/2012 0:00;10.19;0;17/03/2012;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/03/2012;Verano (seco) - Febrero;7.0;0.4590891;0.2873867;-0.027918782;Ovejas;16;16;True;Verano (seco) - Febrero
+7/05/2013 0:00;10.16;0;7/05/2013;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2013;Verano (seco) - Febrero;11.0;0.5819;0.3942;0.0747;Ovejas;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;9.55;0;9/12/2013;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;9.46;0;8/01/2014;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;9.89;0;13/02/2014;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;12;12;True;Verano (seco) - Febrero
+5/05/2014 0:00;9.83;0;5/05/2014;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;93;93;True;Verano (seco) - Febrero
+3/12/2014 0:00;9.71;0;3/12/2014;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;60;-60;True;Verano (seco) - Febrero
+5/01/2015 0:00;10.648.333.333.333.300;0;5/01/2015;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;27;-27;True;Verano (seco) - Febrero
+2/06/2015 0:00;10.55;0;2/06/2015;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;121;121;True;Verano (seco) - Febrero
+15/12/2015 0:00;11.026;0;15/12/2015;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;48;-48;True;Verano (seco) - Febrero
+29/02/2016 0:00;11.25;0;29/02/2016;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;11.66;0;11/04/2016;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;70;70;True;Verano (seco) - Febrero
+2/02/2017 0:00;9.735;0;2/02/2017;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2017;Verano (seco) - Febrero;36.0;0.6501;0.4411;0.1742;Ovejas;1;1;True;Verano (seco) - Febrero
+2/06/2017 0:00;97.225;0;2/06/2017;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2017;Verano (seco) - Febrero;36.0;0.6501;0.4411;0.1742;Ovejas;121;121;True;Verano (seco) - Febrero
+18/03/2018 0:00;9.89;1;18/03/2018;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2018;Verano (seco) - Febrero;4.0;0.6371;0.4041;0.1463;Ovejas;45;45;True;Verano (seco) - Febrero
+4/04/2019 0:00;972.875;0;4/04/2019;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;62;62;True;Verano (seco) - Febrero
+4/04/2019 0:00;9.82;0;4/04/2019;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;62;62;True;Verano (seco) - Febrero
+3/05/2019 0:00;9.791.666.666.666.660;0;3/05/2019;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;91;91;True;Verano (seco) - Febrero
+5/05/2019 0:00;982.625;0;5/05/2019;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;93;93;True;Verano (seco) - Febrero
+15/03/2020 0:00;9.77;1;15/03/2020;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2020;Verano (seco) - Febrero;3.0;0.6569;0.3906;0.1041;Ovejas;43;43;True;Verano (seco) - Febrero
+9/01/2021 0:00;9.912;0;9/01/2021;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2021;Verano (seco) - Febrero;7.0;0.6661;0.4005;0.1653;Ovejas;23;-23;True;Verano (seco) - Febrero
+4/12/2021 0:00;9.72;0;4/12/2021;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2022;Verano (seco) - Febrero;20.0;0.7864;0.5195;0.2609;Ovejas;59;-59;True;Verano (seco) - Febrero
+17/03/2022 0:00;9.81;0;17/03/2022;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2022;Verano (seco) - Febrero;20.0;0.7864;0.5195;0.2609;Ovejas;44;44;True;Verano (seco) - Febrero
+12/04/2023 0:00;10.3;0;12/04/2023;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2023;Verano (seco) - Febrero;2.0;0.7683;0.4774;0.2045;Ovejas;70;70;True;Verano (seco) - Febrero
+11/01/2024 0:00;10.81;1;11/01/2024;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2024;Verano (seco) - Febrero;17.0;0.5025;0.3036;-0.0653;Ovejas;21;-21;True;Verano (seco) - Febrero
+6/05/2024 0:00;10.7;0;6/05/2024;Finca el socorro (Ovejas) - # 44-II-D-PO-02;Ovejas;1/02/2024;Verano (seco) - Febrero;17.0;0.5025;0.3036;-0.0653;Ovejas;95;95;True;Verano (seco) - Febrero
+12/01/2010 0:00;59.55;0;12/01/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;20;-20;True;Verano (seco) - Febrero
+1/03/2010 0:00;60.06;0;1/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;28;28;True;Verano (seco) - Febrero
+5/03/2010 0:00;61.16;0;5/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;32;32;True;Verano (seco) - Febrero
+6/03/2010 0:00;61.14;0;6/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;33;33;True;Verano (seco) - Febrero
+7/03/2010 0:00;61.16;0;7/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;34;34;True;Verano (seco) - Febrero
+8/03/2010 0:00;61.16;0;8/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;35;35;True;Verano (seco) - Febrero
+9/03/2010 0:00;61.16;0;9/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;36;36;True;Verano (seco) - Febrero
+10/03/2010 0:00;61.15;0;10/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;37;37;True;Verano (seco) - Febrero
+11/03/2010 0:00;61.15;0;11/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;38;38;True;Verano (seco) - Febrero
+12/03/2010 0:00;61.15;0;12/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;39;39;True;Verano (seco) - Febrero
+13/03/2010 0:00;61.15;0;13/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;40;40;True;Verano (seco) - Febrero
+14/03/2010 0:00;61.15;0;14/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;41;41;True;Verano (seco) - Febrero
+15/03/2010 0:00;61.15;0;15/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;42;42;True;Verano (seco) - Febrero
+16/03/2010 0:00;61.16;0;16/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;43;43;True;Verano (seco) - Febrero
+17/03/2010 0:00;61.16;0;17/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;44;44;True;Verano (seco) - Febrero
+18/03/2010 0:00;61.17;0;18/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;45;45;True;Verano (seco) - Febrero
+19/03/2010 0:00;61.18;0;19/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;46;46;True;Verano (seco) - Febrero
+20/03/2010 0:00;61.17;0;20/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;47;47;True;Verano (seco) - Febrero
+21/03/2010 0:00;61.17;0;21/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;48;48;True;Verano (seco) - Febrero
+22/03/2010 0:00;61.17;0;22/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;49;49;True;Verano (seco) - Febrero
+23/03/2010 0:00;61.16;0;23/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;50;50;True;Verano (seco) - Febrero
+24/03/2010 0:00;61.16;0;24/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;51;51;True;Verano (seco) - Febrero
+25/03/2010 0:00;61.16;0;25/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;52;52;True;Verano (seco) - Febrero
+26/03/2010 0:00;61.17;0;26/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;53;53;True;Verano (seco) - Febrero
+27/03/2010 0:00;61.17;0;27/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;54;54;True;Verano (seco) - Febrero
+28/03/2010 0:00;61.16;0;28/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;55;55;True;Verano (seco) - Febrero
+29/03/2010 0:00;61.15;0;29/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;56;56;True;Verano (seco) - Febrero
+30/03/2010 0:00;61.16;0;30/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;57;57;True;Verano (seco) - Febrero
+31/03/2010 0:00;61.17;0;31/03/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;58;58;True;Verano (seco) - Febrero
+1/04/2010 0:00;61.17;0;1/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;59;59;True;Verano (seco) - Febrero
+2/04/2010 0:00;61.17;0;2/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;60;60;True;Verano (seco) - Febrero
+3/04/2010 0:00;61.17;0;3/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;61;61;True;Verano (seco) - Febrero
+4/04/2010 0:00;61.17;0;4/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;62;62;True;Verano (seco) - Febrero
+5/04/2010 0:00;61.17;0;5/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;63;63;True;Verano (seco) - Febrero
+6/04/2010 0:00;61.18;0;6/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;64;64;True;Verano (seco) - Febrero
+7/04/2010 0:00;61.18;0;7/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;65;65;True;Verano (seco) - Febrero
+8/04/2010 0:00;61.18;0;8/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;66;66;True;Verano (seco) - Febrero
+9/04/2010 0:00;61.18;0;9/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;67;67;True;Verano (seco) - Febrero
+10/04/2010 0:00;61.18;0;10/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;68;68;True;Verano (seco) - Febrero
+11/04/2010 0:00;61.18;0;11/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;69;69;True;Verano (seco) - Febrero
+12/04/2010 0:00;61.18;0;12/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;70;70;True;Verano (seco) - Febrero
+13/04/2010 0:00;61.18;0;13/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;71;71;True;Verano (seco) - Febrero
+14/04/2010 0:00;61.19;0;14/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;72;72;True;Verano (seco) - Febrero
+15/04/2010 0:00;61.19;0;15/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;73;73;True;Verano (seco) - Febrero
+16/04/2010 0:00;61.19;0;16/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;74;74;True;Verano (seco) - Febrero
+19/04/2010 0:00;59.72;0;19/04/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;77;77;True;Verano (seco) - Febrero
+15/12/2010 0:00;58.96;0;15/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;48;-48;True;Verano (seco) - Febrero
+16/12/2010 0:00;58.98;0;16/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;47;-47;True;Verano (seco) - Febrero
+17/12/2010 0:00;58.94;0;17/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;46;-46;True;Verano (seco) - Febrero
+18/12/2010 0:00;58.94;0;18/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;45;-45;True;Verano (seco) - Febrero
+19/12/2010 0:00;58.93;0;19/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;44;-44;True;Verano (seco) - Febrero
+20/12/2010 0:00;58.93;0;20/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;43;-43;True;Verano (seco) - Febrero
+21/12/2010 0:00;58.92;0;21/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;42;-42;True;Verano (seco) - Febrero
+22/12/2010 0:00;58.92;0;22/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;41;-41;True;Verano (seco) - Febrero
+23/12/2010 0:00;58.98;0;23/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;40;-40;True;Verano (seco) - Febrero
+24/12/2010 0:00;58.95;0;24/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;39;-39;True;Verano (seco) - Febrero
+25/12/2010 0:00;58.94;0;25/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;38;-38;True;Verano (seco) - Febrero
+26/12/2010 0:00;58.93;0;26/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;37;-37;True;Verano (seco) - Febrero
+27/12/2010 0:00;58.93;0;27/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;36;-36;True;Verano (seco) - Febrero
+28/12/2010 0:00;58.93;0;28/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;35;-35;True;Verano (seco) - Febrero
+29/12/2010 0:00;58.92;0;29/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;34;-34;True;Verano (seco) - Febrero
+30/12/2010 0:00;58.88;0;30/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;33;-33;True;Verano (seco) - Febrero
+31/12/2010 0:00;58.85;0;31/12/2010;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;32;-32;True;Verano (seco) - Febrero
+1/01/2011 0:00;58.9;0;1/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;31;-31;True;Verano (seco) - Febrero
+2/01/2011 0:00;57.5;0;2/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;30;-30;True;Verano (seco) - Febrero
+3/01/2011 0:00;57.95;0;3/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;29;-29;True;Verano (seco) - Febrero
+4/01/2011 0:00;56.5;0;4/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;28;-28;True;Verano (seco) - Febrero
+5/01/2011 0:00;55.9;0;5/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;27;-27;True;Verano (seco) - Febrero
+6/01/2011 0:00;55.95;0;6/01/2011;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;26;-26;True;Verano (seco) - Febrero
+3/01/2012 0:00;52.6;0;3/01/2012;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+28/02/2012 0:00;54.3;0;28/02/2012;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;58;58;True;Verano (seco) - Febrero
+18/04/2012 0:00;58.18;0;18/04/2012;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;108;108;True;Verano (seco) - Febrero
+12/05/2012 0:00;58.05;0;12/05/2012;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;132;132;True;Verano (seco) - Febrero
+4/01/2013 0:00;58.32;0;4/01/2013;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;58.57;0;4/04/2013;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;58.55;0;7/05/2013;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;55.1;0;9/12/2013;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;58.1;0;8/01/2014;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;58.82;0;13/02/2014;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;59.12;0;2/04/2014;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;59.13;0;5/05/2014;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;59.2;0;3/06/2014;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+2/06/2015 0:00;59.58;0;2/06/2015;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;60.38;0;18/01/2016;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;62.31;0;29/02/2016;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+4/05/2016 0:00;61.07;0;4/05/2016;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;93;93;True;Verano (seco) - Febrero
+8/02/2017 0:00;61.12;0;8/02/2017;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+27/04/2017 0:00;61.32;0;27/04/2017;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;85;85;True;Verano (seco) - Febrero
+2/06/2017 0:00;61.41;0;2/06/2017;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;121;121;True;Verano (seco) - Febrero
+23/01/2018 0:00;62.03;0;23/01/2018;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+12/06/2018 0:00;62.26;0;12/06/2018;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;131;131;True;Verano (seco) - Febrero
+3/04/2019 0:00;63.1;0;3/04/2019;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;61;61;True;Verano (seco) - Febrero
+13/05/2020 0:00;64.9;0;13/05/2020;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;102;102;True;Verano (seco) - Febrero
+13/05/2021 0:00;64.8;1;13/05/2021;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2021;Verano (seco) - Febrero;8.0;0.5766;0.3276;0.0361;Corozal;101;101;True;Verano (seco) - Febrero
+1/02/2022 0:00;65.43;0;1/02/2022;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;0;0;True;Verano (seco) - Febrero
+13/03/2023 0:00;67.56;1;13/03/2023;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;40;40;True;Verano (seco) - Febrero
+7/12/2023 0:00;67.66;1;7/12/2023;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;56;-56;True;Verano (seco) - Febrero
+1/01/2024 0:00;67.77;0;1/01/2024;Finca el tesoro - # 44-IV-D-PZ-04;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;31;-31;True;Verano (seco) - Febrero
+6/01/2010 0:00;37.63;0;6/01/2010;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;5;5;True;Verano (seco) - Febrero
+24/11/2010 0:00;37.25;1;24/11/2010;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2011;Verano (seco) - Febrero;20.0;0.5149;0.317;-0.0375;Morroa;69;-69;True;Verano (seco) - Febrero
+27/04/2011 0:00;36.71;0;27/04/2011;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2011;Verano (seco) - Febrero;20.0;0.5149;0.317;-0.0375;Morroa;85;85;True;Verano (seco) - Febrero
+10/11/2011 0:00;36.91;1;10/11/2011;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;52;-52;True;Verano (seco) - Febrero
+26/01/2012 0:00;36.73;0;26/01/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;25;25;True;Verano (seco) - Febrero
+26/04/2012 0:00;37.83;0;26/04/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;116;116;True;Verano (seco) - Febrero
+22/11/2012 0:00;40.44;0;22/11/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;71;-71;True;Verano (seco) - Febrero
+4/01/2013 0:00;40.61;0;4/01/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;28;-28;True;Verano (seco) - Febrero
+7/05/2013 0:00;40.7;0;7/05/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;95;95;True;Verano (seco) - Febrero
+11/06/2013 0:00;40.78;0;11/06/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;130;130;True;Verano (seco) - Febrero
+8/01/2014 0:00;41.1;0;8/01/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;41.19;0;13/02/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;41.1;0;2/04/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;41.44;0;5/05/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;93;93;True;Verano (seco) - Febrero
+5/01/2015 0:00;42.1;0;5/01/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;27;-27;True;Verano (seco) - Febrero
+15/04/2015 0:00;42.37;0;15/04/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;73;73;True;Verano (seco) - Febrero
+15/12/2015 0:00;42.845;0;15/12/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;48;-48;True;Verano (seco) - Febrero
+18/01/2016 0:00;42.9;0;18/01/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;42.98;0;29/02/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;43.27;0;11/04/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;70;70;True;Verano (seco) - Febrero
+15/02/2017 0:00;43.64;0;15/02/2017;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;14;14;True;Verano (seco) - Febrero
+28/02/2017 0:00;43.45;0;28/02/2017;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;27;27;True;Verano (seco) - Febrero
+4/04/2019 0:00;44.47;0;4/04/2019;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;62;62;True;Verano (seco) - Febrero
+22/04/2021 0:00;47.0;0;22/04/2021;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2021;Verano (seco) - Febrero;5.0;0.4945;0.3331;-0.0907;Morroa;80;80;True;Verano (seco) - Febrero
+8/02/2022 0:00;47.7;1;8/02/2022;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2022;Verano (seco) - Febrero;14.0;0.491;0.2969;-0.112;Morroa;7;7;True;Verano (seco) - Febrero
+8/12/2023 0:00;49.82;1;8/12/2023;Las Tinas (Morroa) - # 44-IV-C-PZ-02 A;Morroa;1/02/2024;Verano (seco) - Febrero;11.0;0.5259;0.3379;-0.0428;Morroa;55;-55;True;Verano (seco) - Febrero
+18/02/2010 0:00;2.89;1;18/02/2010;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;48;48;True;Verano (seco) - Febrero
+28/12/2010 0:00;2.96;0;28/12/2010;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2011;Verano (seco) - Febrero;20.0;0.5149;0.317;-0.0375;Morroa;35;-35;True;Verano (seco) - Febrero
+7/04/2011 0:00;3.13;0;7/04/2011;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2011;Verano (seco) - Febrero;20.0;0.5149;0.317;-0.0375;Morroa;65;65;True;Verano (seco) - Febrero
+22/12/2011 0:00;3.24;1;22/12/2011;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;10;-10;True;Verano (seco) - Febrero
+26/01/2012 0:00;3.11;0;26/01/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;25;25;True;Verano (seco) - Febrero
+26/04/2012 0:00;3.05;0;26/04/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;116;116;True;Verano (seco) - Febrero
+22/11/2012 0:00;2.78;0;22/11/2012;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;71;-71;True;Verano (seco) - Febrero
+4/01/2013 0:00;3.16;0;4/01/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;28;-28;True;Verano (seco) - Febrero
+7/05/2013 0:00;3.13;0;7/05/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;95;95;True;Verano (seco) - Febrero
+11/06/2013 0:00;3.0;0;11/06/2013;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;130;130;True;Verano (seco) - Febrero
+8/01/2014 0:00;2.7;0;8/01/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;3.06;0;13/02/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;3.31;0;2/04/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;2.96;0;5/05/2014;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;93;93;True;Verano (seco) - Febrero
+5/01/2015 0:00;3.0;0;5/01/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;27;-27;True;Verano (seco) - Febrero
+15/04/2015 0:00;2.65;0;15/04/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;73;73;True;Verano (seco) - Febrero
+15/12/2015 0:00;3.26;0;15/12/2015;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;48;-48;True;Verano (seco) - Febrero
+18/01/2016 0:00;3.36;0;18/01/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;3.36;0;29/02/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;3.55;0;11/04/2016;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;70;70;True;Verano (seco) - Febrero
+15/02/2017 0:00;3.33;0;15/02/2017;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;14;14;True;Verano (seco) - Febrero
+28/02/2017 0:00;3.06;0;28/02/2017;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;27;27;True;Verano (seco) - Febrero
+12/05/2017 0:00;3.11;1;12/05/2017;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;100;100;True;Verano (seco) - Febrero
+22/03/2018 0:00;3.19;0;22/03/2018;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2018;Verano (seco) - Febrero;9.0;0.5499;0.3637;-0.0412;Morroa;49;49;True;Verano (seco) - Febrero
+11/12/2018 0:00;3.17;1;11/12/2018;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;52;-52;True;Verano (seco) - Febrero
+4/04/2019 0:00;3.23;0;4/04/2019;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;62;62;True;Verano (seco) - Febrero
+22/04/2021 0:00;3.34;0;22/04/2021;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2021;Verano (seco) - Febrero;5.0;0.4945;0.3331;-0.0907;Morroa;80;80;True;Verano (seco) - Febrero
+8/02/2022 0:00;3.37;0;8/02/2022;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2022;Verano (seco) - Febrero;14.0;0.491;0.2969;-0.112;Morroa;7;7;True;Verano (seco) - Febrero
+8/12/2023 0:00;3.65;0;8/12/2023;Las Tinas (Morroa) - # 44-IV-C-PZ-02 B;Morroa;1/02/2024;Verano (seco) - Febrero;11.0;0.5259;0.3379;-0.0428;Morroa;55;-55;True;Verano (seco) - Febrero
+15/02/2010 0:00;72.08;0;15/02/2010;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;45;45;True;Verano (seco) - Febrero
+26/02/2010 0:00;72.5;0;26/02/2010;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;56;56;True;Verano (seco) - Febrero
+5/03/2010 0:00;72.5;0;5/03/2010;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;63;63;True;Verano (seco) - Febrero
+19/04/2010 0:00;71.98;0;19/04/2010;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;108;108;True;Verano (seco) - Febrero
+1/02/2011 0:00;71.52;0;1/02/2011;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2011;Verano (seco) - Febrero;20.0;0.5149;0.317;-0.0375;Morroa;0;0;True;Verano (seco) - Febrero
+17/11/2011 0:00;71.64;0;17/11/2011;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;45;-45;True;Verano (seco) - Febrero
+12/12/2011 0:00;71.7;0;12/12/2011;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;20;-20;True;Verano (seco) - Febrero
+26/01/2012 0:00;71.75;0;26/01/2012;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;25;25;True;Verano (seco) - Febrero
+28/02/2012 0:00;71.7;0;28/02/2012;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;58;58;True;Verano (seco) - Febrero
+2/05/2012 0:00;71.65;0;2/05/2012;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;122;122;True;Verano (seco) - Febrero
+22/11/2012 0:00;71.6;0;22/11/2012;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;71;-71;True;Verano (seco) - Febrero
+4/01/2013 0:00;71.67;0;4/01/2013;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;71.88;0;4/04/2013;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;62;62;True;Verano (seco) - Febrero
+3/05/2013 0:00;71.82;0;3/05/2013;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;91;91;True;Verano (seco) - Febrero
+12/06/2013 0:00;71.75;0;12/06/2013;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;131;131;True;Verano (seco) - Febrero
+8/01/2014 0:00;72.12;0;8/01/2014;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;72.3;0;13/02/2014;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;12;12;True;Verano (seco) - Febrero
+5/05/2014 0:00;72.52;0;5/05/2014;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;93;93;True;Verano (seco) - Febrero
+3/12/2014 0:00;72.6;0;3/12/2014;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;60;-60;True;Verano (seco) - Febrero
+5/01/2015 0:00;73.35;0;5/01/2015;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;27;-27;True;Verano (seco) - Febrero
+2/06/2015 0:00;73.79;0;2/06/2015;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2015;Verano (seco) - Febrero;13.0;0.4004;0.2785;-0.0694;Morroa;121;121;True;Verano (seco) - Febrero
+15/12/2015 0:00;74.49;0;15/12/2015;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;48;-48;True;Verano (seco) - Febrero
+18/01/2016 0:00;74.6;0;18/01/2016;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;74.87;0;29/02/2016;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;74.87;0;11/04/2016;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;70;70;True;Verano (seco) - Febrero
+27/04/2017 0:00;76.21;0;27/04/2017;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;85;85;True;Verano (seco) - Febrero
+2/06/2017 0:00;76.29;0;2/06/2017;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;121;121;True;Verano (seco) - Febrero
+16/06/2017 0:00;76.47;0;16/06/2017;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;135;135;True;Verano (seco) - Febrero
+23/01/2018 0:00;77.11;0;23/01/2018;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2018;Verano (seco) - Febrero;9.0;0.5499;0.3637;-0.0412;Morroa;9;-9;True;Verano (seco) - Febrero
+4/04/2019 0:00;79.42;0;4/04/2019;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;62;62;True;Verano (seco) - Febrero
+7/02/2022 0:00;83.83;0;7/02/2022;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2022;Verano (seco) - Febrero;14.0;0.491;0.2969;-0.112;Morroa;6;6;True;Verano (seco) - Febrero
+23/03/2023 0:00;797.940.496;1;23/03/2023;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2023;Verano (seco) - Febrero;2.0;0.5559;0.3349;-0.0831;Morroa;50;50;True;Verano (seco) - Febrero
+11/01/2024 0:00;77.88;0;11/01/2024;Los Palmitos - # 44-IV-B-PZ-01 Piñal;Morroa;1/02/2024;Verano (seco) - Febrero;11.0;0.5259;0.3379;-0.0428;Morroa;21;-21;True;Verano (seco) - Febrero
+17/07/2009 0:00;4.9;0;17/07/2009;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;168;-168;True;Verano (seco) - Febrero
+24/08/2009 0:00;4.86;0;24/08/2009;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;130;-130;True;Verano (seco) - Febrero
+12/01/2010 0:00;4.59;0;12/01/2010;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;11;11;True;Verano (seco) - Febrero
+12/01/2010 0:00;4.59;0;12/01/2010;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;11;11;True;Verano (seco) - Febrero
+1/03/2010 0:00;6.4;0;1/03/2010;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;59;59;True;Verano (seco) - Febrero
+19/04/2010 0:00;5.76;0;19/04/2010;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2010;Verano (seco) - Febrero;0.0;0.525818101;0.33427054;-0.073873214;Morroa;108;108;True;Verano (seco) - Febrero
+3/01/2012 0:00;4.6;0;3/01/2012;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;2;2;True;Verano (seco) - Febrero
+28/02/2012 0:00;4.95;0;28/02/2012;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;58;58;True;Verano (seco) - Febrero
+12/04/2012 0:00;5.1;0;12/04/2012;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/01/2012;Verano (seco) - Febrero;28.0;0.597856139;0.382206356;-0.025668368;Morroa;102;102;True;Verano (seco) - Febrero
+4/01/2013 0:00;4.35;0;4/01/2013;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;28;-28;True;Verano (seco) - Febrero
+7/05/2013 0:00;4.9;0;7/05/2013;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;95;95;True;Verano (seco) - Febrero
+13/06/2013 0:00;4.85;0;13/06/2013;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2013;Verano (seco) - Febrero;16.0;0.3417;0.2142;-0.2194;Morroa;132;132;True;Verano (seco) - Febrero
+8/01/2014 0:00;4.63;0;8/01/2014;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;4.91;0;13/02/2014;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;12;12;True;Verano (seco) - Febrero
+15/04/2014 0:00;5.56;0;15/04/2014;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;73;73;True;Verano (seco) - Febrero
+5/05/2014 0:00;5.09;0;5/05/2014;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2014;Verano (seco) - Febrero;8.0;0.4467;0.2864;-0.1561;Morroa;93;93;True;Verano (seco) - Febrero
+18/01/2016 0:00;5.78;0;18/01/2016;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;5.63;0;29/02/2016;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;5.77;0;11/04/2016;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2016;Verano (seco) - Febrero;6.0;0.3736;0.2437;-0.1551;Morroa;70;70;True;Verano (seco) - Febrero
+15/02/2017 0:00;5.86;0;15/02/2017;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;14;14;True;Verano (seco) - Febrero
+2/06/2017 0:00;5.92;0;2/06/2017;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2017;Verano (seco) - Febrero;34.0;0.4214;0.2505;-0.0252;Morroa;121;121;True;Verano (seco) - Febrero
+3/04/2019 0:00;5.58;0;3/04/2019;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;61;61;True;Verano (seco) - Febrero
+3/05/2019 0:00;4.6;0;3/05/2019;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2019;Verano (seco) - Febrero;5.0;0.3895;0.2485;-0.1696;Morroa;91;91;True;Verano (seco) - Febrero
+1/05/2020 0:00;5.49;0;1/05/2020;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2020;Verano (seco) - Febrero;1.0;0.3561;0.243;-0.1674;Morroa;90;90;True;Verano (seco) - Febrero
+22/04/2021 0:00;5.47;1;22/04/2021;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2021;Verano (seco) - Febrero;5.0;0.4945;0.3331;-0.0907;Morroa;80;80;True;Verano (seco) - Febrero
+8/02/2022 0:00;5.95;0;8/02/2022;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2022;Verano (seco) - Febrero;14.0;0.491;0.2969;-0.112;Morroa;7;7;True;Verano (seco) - Febrero
+8/12/2023 0:00;5.41;1;8/12/2023;Morroa (Bremen) - # 44-IV-C-PZ-01 A;Morroa;1/02/2024;Verano (seco) - Febrero;11.0;0.5259;0.3379;-0.0428;Morroa;55;-55;True;Verano (seco) - Febrero
+3/04/2011 0:00;8.5;1;3/04/2011;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2011;Verano (seco) - Febrero;17.0;0.6452;0.4249;0.1297;Ovejas;61;61;True;Verano (seco) - Febrero
+14/02/2012 0:00;8.63;1;14/02/2012;Ovejas - # 44-II-D-PO-14;Ovejas;1/03/2012;Verano (seco) - Febrero;7.0;0.4590891;0.2873867;-0.027918782;Ovejas;16;-16;True;Verano (seco) - Febrero
+3/05/2012 0:00;8.67;0;3/05/2012;Ovejas - # 44-II-D-PO-14;Ovejas;1/03/2012;Verano (seco) - Febrero;7.0;0.4590891;0.2873867;-0.027918782;Ovejas;63;63;True;Verano (seco) - Febrero
+9/12/2013 0:00;10.13;0;9/12/2013;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;54;-54;True;Verano (seco) - Febrero
+13/02/2014 0:00;11.6;0;13/02/2014;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;12;12;True;Verano (seco) - Febrero
+5/05/2014 0:00;10.38;0;5/05/2014;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2014;Verano (seco) - Febrero;5.0;0.6077;0.3911;0.0872;Ovejas;93;93;True;Verano (seco) - Febrero
+3/12/2014 0:00;9.87;0;3/12/2014;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;60;-60;True;Verano (seco) - Febrero
+5/01/2015 0:00;10.99;0;5/01/2015;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;27;-27;True;Verano (seco) - Febrero
+2/06/2015 0:00;12.9;0;2/06/2015;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2015;Verano (seco) - Febrero;10.0;0.5702;0.3683;0.0338;Ovejas;121;121;True;Verano (seco) - Febrero
+15/12/2015 0:00;12.32;0;15/12/2015;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;48;-48;True;Verano (seco) - Febrero
+18/01/2016 0:00;13.47;0;18/01/2016;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;13.02;0;29/02/2016;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;12.32;0;11/04/2016;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2016;Verano (seco) - Febrero;5.0;0.5113;0.3239;0.0503;Ovejas;70;70;True;Verano (seco) - Febrero
+3/05/2017 0:00;9.46;0;3/05/2017;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2017;Verano (seco) - Febrero;36.0;0.6501;0.4411;0.1742;Ovejas;91;91;True;Verano (seco) - Febrero
+2/06/2017 0:00;8.87;0;2/06/2017;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2017;Verano (seco) - Febrero;36.0;0.6501;0.4411;0.1742;Ovejas;121;121;True;Verano (seco) - Febrero
+22/01/2018 0:00;7.11;0;22/01/2018;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2018;Verano (seco) - Febrero;4.0;0.6371;0.4041;0.1463;Ovejas;10;-10;True;Verano (seco) - Febrero
+4/04/2019 0:00;5.46;0;4/04/2019;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;62;62;True;Verano (seco) - Febrero
+3/05/2019 0:00;5.63;0;3/05/2019;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2019;Verano (seco) - Febrero;8.0;0.6511;0.3995;0.0793;Ovejas;91;91;True;Verano (seco) - Febrero
+15/04/2020 0:00;54.073.204.156.999.900;0;15/04/2020;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2020;Verano (seco) - Febrero;3.0;0.6569;0.3906;0.1041;Ovejas;74;74;True;Verano (seco) - Febrero
+7/01/2021 0:00;5.595.715.884.799.990;1;7/01/2021;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2021;Verano (seco) - Febrero;7.0;0.6661;0.4005;0.1653;Ovejas;25;-25;True;Verano (seco) - Febrero
+16/12/2021 0:00;5.912.498.325.299.990;1;16/12/2021;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2022;Verano (seco) - Febrero;20.0;0.7864;0.5195;0.2609;Ovejas;47;-47;True;Verano (seco) - Febrero
+5/03/2022 0:00;5.969.890.750.584.300;0;5/03/2022;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2022;Verano (seco) - Febrero;20.0;0.7864;0.5195;0.2609;Ovejas;32;32;True;Verano (seco) - Febrero
+29/12/2022 0:00;5.995.434.968.183.890;0;29/12/2022;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2023;Verano (seco) - Febrero;2.0;0.7683;0.4774;0.2045;Ovejas;34;-34;True;Verano (seco) - Febrero
+27/02/2024 0:00;69.498.453.125;0;27/02/2024;Ovejas - # 44-II-D-PO-14;Ovejas;1/02/2024;Verano (seco) - Febrero;17.0;0.5025;0.3036;-0.0653;Ovejas;26;26;True;Verano (seco) - Febrero
+12/01/2010 0:00;89.7;0;12/01/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;20;-20;True;Verano (seco) - Febrero
+5/03/2010 0:00;91.01;0;5/03/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;32;32;True;Verano (seco) - Febrero
+7/03/2010 0:00;91.02;0;7/03/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;34;34;True;Verano (seco) - Febrero
+8/03/2010 0:00;91.02;0;8/03/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;35;35;True;Verano (seco) - Febrero
+16/03/2010 0:00;91.06;0;16/03/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;43;43;True;Verano (seco) - Febrero
+1/04/2010 0:00;91.14;0;1/04/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;59;59;True;Verano (seco) - Febrero
+10/04/2010 0:00;91.19;0;10/04/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;68;68;True;Verano (seco) - Febrero
+15/04/2010 0:00;91.22;0;15/04/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;73;73;True;Verano (seco) - Febrero
+16/04/2010 0:00;91.2;0;16/04/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2010;Verano (seco) - Febrero;2.0;0.4534;0.3762;-0.0094;Corozal;74;74;True;Verano (seco) - Febrero
+19/12/2010 0:00;92.33;0;19/12/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;44;-44;True;Verano (seco) - Febrero
+28/12/2010 0:00;92.37;0;28/12/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;35;-35;True;Verano (seco) - Febrero
+29/12/2010 0:00;92.37;0;29/12/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;34;-34;True;Verano (seco) - Febrero
+30/12/2010 0:00;92.36;0;30/12/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;33;-33;True;Verano (seco) - Febrero
+31/12/2010 0:00;92.39;0;31/12/2010;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;32;-32;True;Verano (seco) - Febrero
+1/01/2011 0:00;92.4;0;1/01/2011;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2011;Verano (seco) - Febrero;24.0;0.6157;0.3805;-0.0079;Corozal;31;-31;True;Verano (seco) - Febrero
+3/01/2012 0:00;91.3;0;3/01/2012;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;2;2;True;Verano (seco) - Febrero
+28/02/2012 0:00;91.25;0;28/02/2012;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;58;58;True;Verano (seco) - Febrero
+18/04/2012 0:00;91.0;0;18/04/2012;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/01/2012;Verano (seco) - Febrero;26.0;0.70302522;0.41876968;0.0882138;Corozal;108;108;True;Verano (seco) - Febrero
+4/01/2013 0:00;91.52;0;4/01/2013;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;28;-28;True;Verano (seco) - Febrero
+4/04/2013 0:00;91.88;0;4/04/2013;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;62;62;True;Verano (seco) - Febrero
+7/05/2013 0:00;91.95;0;7/05/2013;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2013;Verano (seco) - Febrero;17.0;0.5096;0.2774;-0.0824;Corozal;95;95;True;Verano (seco) - Febrero
+9/12/2013 0:00;93.15;0;9/12/2013;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;93.35;0;8/01/2014;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;93.17;0;13/02/2014;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;12;12;True;Verano (seco) - Febrero
+2/04/2014 0:00;93.8;0;2/04/2014;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;60;60;True;Verano (seco) - Febrero
+5/05/2014 0:00;94.03;0;5/05/2014;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;94.15;0;3/06/2014;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2014;Verano (seco) - Febrero;8.0;0.6022;0.325;0.0055;Corozal;122;122;True;Verano (seco) - Febrero
+5/01/2015 0:00;95.42;0;5/01/2015;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;-27;True;Verano (seco) - Febrero
+31/01/2015 0:00;95.58;0;31/01/2015;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;1;-1;True;Verano (seco) - Febrero
+28/02/2015 0:00;95.68;0;28/02/2015;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;27;27;True;Verano (seco) - Febrero
+24/03/2015 0:00;95.86;0;24/03/2015;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;51;51;True;Verano (seco) - Febrero
+2/06/2015 0:00;96.0;0;2/06/2015;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2015;Verano (seco) - Febrero;15.0;0.5985;0.3735;0.072;Corozal;121;121;True;Verano (seco) - Febrero
+18/01/2016 0:00;97.4;0;18/01/2016;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;97.6;0;29/02/2016;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;97.71;0;11/04/2016;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;70;70;True;Verano (seco) - Febrero
+4/05/2016 0:00;97.82;0;4/05/2016;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2016;Verano (seco) - Febrero;7.0;0.5069;0.297;-0.0585;Corozal;93;93;True;Verano (seco) - Febrero
+8/02/2017 0:00;98.93;0;8/02/2017;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;7;7;True;Verano (seco) - Febrero
+18/02/2017 0:00;98.93;0;18/02/2017;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;17;17;True;Verano (seco) - Febrero
+27/04/2017 0:00;99.56;0;27/04/2017;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;85;85;True;Verano (seco) - Febrero
+2/06/2017 0:00;99.69;0;2/06/2017;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2017;Verano (seco) - Febrero;46.0;0.6873;0.4323;0.1221;Corozal;121;121;True;Verano (seco) - Febrero
+23/01/2018 0:00;100.79;0;23/01/2018;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;9;-9;True;Verano (seco) - Febrero
+12/06/2018 0:00;101.74;0;12/06/2018;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2018;Verano (seco) - Febrero;9.0;0.5247;0.3197;0.004;Corozal;131;131;True;Verano (seco) - Febrero
+3/04/2019 0:00;103.08;0;3/04/2019;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2019;Verano (seco) - Febrero;8.0;0.5243;0.2786;-0.0269;Corozal;61;61;True;Verano (seco) - Febrero
+24/03/2020 0:00;105.38;0;24/03/2020;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;52;52;True;Verano (seco) - Febrero
+12/05/2020 0:00;106.46;1;12/05/2020;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2020;Verano (seco) - Febrero;3.0;0.4738;0.2555;-0.1048;Corozal;101;101;True;Verano (seco) - Febrero
+17/02/2022 0:00;108.6;0;17/02/2022;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2022;Verano (seco) - Febrero;23.0;0.5226;0.2679;-0.0338;Corozal;16;16;True;Verano (seco) - Febrero
+7/02/2023 0:00;111.03;1;7/02/2023;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2023;Verano (seco) - Febrero;2.0;0.6726;0.3925;0.0685;Corozal;6;6;True;Verano (seco) - Febrero
+1/01/2024 0:00;112.5;0;1/01/2024;Sabanas de cali (El Tesoro) - # 44-IV-D-PZ-02;Corozal;1/02/2024;Verano (seco) - Febrero;15.0;0.5612;0.3157;0.0248;Corozal;31;-31;True;Verano (seco) - Febrero
+15/02/2010 0:00;34.45;0;15/02/2010;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2010;Verano (seco) - Febrero;2.0;0.1378;0.1276;0.082;Sampues;14;14;True;Verano (seco) - Febrero
+26/02/2010 0:00;34.98;0;26/02/2010;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2010;Verano (seco) - Febrero;2.0;0.1378;0.1276;0.082;Sampues;25;25;True;Verano (seco) - Febrero
+19/04/2010 0:00;33.85;0;19/04/2010;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2010;Verano (seco) - Febrero;2.0;0.1378;0.1276;0.082;Sampues;77;77;True;Verano (seco) - Febrero
+7/05/2010 0:00;34.87;0;7/05/2010;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2010;Verano (seco) - Febrero;2.0;0.1378;0.1276;0.082;Sampues;95;95;True;Verano (seco) - Febrero
+2/06/2010 0:00;34.07;0;2/06/2010;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2010;Verano (seco) - Febrero;2.0;0.1378;0.1276;0.082;Sampues;121;121;True;Verano (seco) - Febrero
+1/02/2011 0:00;34.65;0;1/02/2011;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2011;Verano (seco) - Febrero;18.0;0.3036;0.2795;-0.055;Sampues;0;0;True;Verano (seco) - Febrero
+16/05/2011 0:00;34.57;0;16/05/2011;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2011;Verano (seco) - Febrero;18.0;0.3036;0.2795;-0.055;Sampues;104;104;True;Verano (seco) - Febrero
+17/11/2011 0:00;34.05;0;17/11/2011;Sampues - # 52-II-C-PZ-01;Sampues;1/01/2012;Verano (seco) - Febrero;27.0;0.460418051;0.318639847;-0.009083087;Sampues;45;-45;True;Verano (seco) - Febrero
+3/01/2012 0:00;34.35;0;3/01/2012;Sampues - # 52-II-C-PZ-01;Sampues;1/01/2012;Verano (seco) - Febrero;27.0;0.460418051;0.318639847;-0.009083087;Sampues;2;2;True;Verano (seco) - Febrero
+24/02/2012 0:00;34.6;0;24/02/2012;Sampues - # 52-II-C-PZ-01;Sampues;1/01/2012;Verano (seco) - Febrero;27.0;0.460418051;0.318639847;-0.009083087;Sampues;54;54;True;Verano (seco) - Febrero
+4/01/2013 0:00;35.2;0;4/01/2013;Sampues - # 52-II-C-PZ-01;Sampues;1/01/2013;Verano (seco) - Febrero;4.0;0.452989671;0.30247475;-0.051699425;Sampues;3;3;True;Verano (seco) - Febrero
+7/05/2013 0:00;35.43;0;7/05/2013;Sampues - # 52-II-C-PZ-01;Sampues;1/01/2013;Verano (seco) - Febrero;4.0;0.452989671;0.30247475;-0.051699425;Sampues;126;126;True;Verano (seco) - Febrero
+9/12/2013 0:00;35.85;0;9/12/2013;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2014;Verano (seco) - Febrero;7.0;0.4257;0.2955;-0.0408;Sampues;54;-54;True;Verano (seco) - Febrero
+8/01/2014 0:00;36.54;0;8/01/2014;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2014;Verano (seco) - Febrero;7.0;0.4257;0.2955;-0.0408;Sampues;24;-24;True;Verano (seco) - Febrero
+13/02/2014 0:00;36.72;0;13/02/2014;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2014;Verano (seco) - Febrero;7.0;0.4257;0.2955;-0.0408;Sampues;12;12;True;Verano (seco) - Febrero
+5/05/2014 0:00;36.95;0;5/05/2014;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2014;Verano (seco) - Febrero;7.0;0.4257;0.2955;-0.0408;Sampues;93;93;True;Verano (seco) - Febrero
+3/06/2014 0:00;36.98;0;3/06/2014;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2014;Verano (seco) - Febrero;7.0;0.4257;0.2955;-0.0408;Sampues;122;122;True;Verano (seco) - Febrero
+16/01/2015 0:00;38.76;0;16/01/2015;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2015;Verano (seco) - Febrero;12.0;0.4045;0.2686;-0.0803;Sampues;16;-16;True;Verano (seco) - Febrero
+5/04/2015 0:00;38.19;0;5/04/2015;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2015;Verano (seco) - Febrero;12.0;0.4045;0.2686;-0.0803;Sampues;63;63;True;Verano (seco) - Febrero
+15/12/2015 0:00;39.69;0;15/12/2015;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2016;Verano (seco) - Febrero;6.0;0.3777;0.2611;-0.0653;Sampues;48;-48;True;Verano (seco) - Febrero
+18/01/2016 0:00;39.93;0;18/01/2016;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2016;Verano (seco) - Febrero;6.0;0.3777;0.2611;-0.0653;Sampues;14;-14;True;Verano (seco) - Febrero
+29/02/2016 0:00;40.42;0;29/02/2016;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2016;Verano (seco) - Febrero;6.0;0.3777;0.2611;-0.0653;Sampues;28;28;True;Verano (seco) - Febrero
+11/04/2016 0:00;40.65;0;11/04/2016;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2016;Verano (seco) - Febrero;6.0;0.3777;0.2611;-0.0653;Sampues;70;70;True;Verano (seco) - Febrero
+8/02/2017 0:00;41.59;0;8/02/2017;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2017;Verano (seco) - Febrero;32.0;0.4801;0.3097;-0.0183;Sampues;7;7;True;Verano (seco) - Febrero
+10/05/2017 0:00;41.79;0;10/05/2017;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2017;Verano (seco) - Febrero;32.0;0.4801;0.3097;-0.0183;Sampues;98;98;True;Verano (seco) - Febrero
+1/06/2017 0:00;41.93;0;1/06/2017;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2017;Verano (seco) - Febrero;32.0;0.4801;0.3097;-0.0183;Sampues;120;120;True;Verano (seco) - Febrero
+1/03/2018 0:00;42.107.111;1;1/03/2018;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2018;Verano (seco) - Febrero;8.0;0.59;0.3884;0.064;Sampues;28;28;True;Verano (seco) - Febrero
+12/02/2019 0:00;42.934.777.413.824.800;1;12/02/2019;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2019;Verano (seco) - Febrero;5.0;0.3713;0.269;-0.0772;Sampues;11;11;True;Verano (seco) - Febrero
+7/12/2019 0:00;43.516.989.046.821.700;0;7/12/2019;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2020;Verano (seco) - Febrero;1.0;0.4636;0.2955;-0.0249;Sampues;56;-56;True;Verano (seco) - Febrero
+12/01/2020 0:00;43.817.523.414.593.600;1;12/01/2020;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2020;Verano (seco) - Febrero;1.0;0.4636;0.2955;-0.0249;Sampues;20;-20;True;Verano (seco) - Febrero
+11/05/2020 0:00;4.412.448.060.017.720;0;11/05/2020;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2020;Verano (seco) - Febrero;1.0;0.4636;0.2955;-0.0249;Sampues;100;100;True;Verano (seco) - Febrero
+12/12/2020 0:00;4.475.808.639.741.200;0;12/12/2020;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2021;Verano (seco) - Febrero;5.0;0.477;0.3139;0.0118;Sampues;51;-51;True;Verano (seco) - Febrero
+11/01/2021 0:00;4.508.495.133.777.320;1;11/01/2021;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2021;Verano (seco) - Febrero;5.0;0.477;0.3139;0.0118;Sampues;21;-21;True;Verano (seco) - Febrero
+7/04/2021 0:00;4.541.867.175.336.580;0;7/04/2021;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2021;Verano (seco) - Febrero;5.0;0.477;0.3139;0.0118;Sampues;65;65;True;Verano (seco) - Febrero
+8/02/2022 0:00;47.17;0;8/02/2022;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2022;Verano (seco) - Febrero;13.0;0.5873;0.3918;0.0852;Sampues;7;7;True;Verano (seco) - Febrero
+16/05/2022 0:00;47.152.342.456.998.400;1;16/05/2022;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2022;Verano (seco) - Febrero;13.0;0.5873;0.3918;0.0852;Sampues;104;104;True;Verano (seco) - Febrero
+22/04/2023 0:00;4.775.630.129.043.630;0;22/04/2023;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2023;Verano (seco) - Febrero;2.0;0.5976;0.3797;0.0673;Sampues;80;80;True;Verano (seco) - Febrero
+5/02/2024 0:00;48.379.965.742.895.800;0;5/02/2024;Sampues - # 52-II-C-PZ-01;Sampues;1/02/2024;Verano (seco) - Febrero;10.0;0.5642;0.3821;0.0333;Sampues;4;4;True;Verano (seco) - Febrero
